@@ -1,4 +1,4 @@
-# jobportal
+# Jobportal
 It is a website that help the people who are willing and in search of a job but couldn’t find it. 
 Interested people will enter their information such as their academic record, skills, area of interest and so on. 
 On the other hand the companies which are planning for new recruitment will specify eligibility criteria, salary provided by the company and so on...

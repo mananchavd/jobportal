@@ -16,12 +16,12 @@ On the other hand the companies which are planning for new recruitment will spec
 
 # SCOPE (SCOPE-LIST OF MODULES AND THEIR FUNCTION) :- 
 1. Candidate: 
-   - Register.
-   - Edit profile.
-   - Applied companies. 
-   - Company status.
-   - Logout. 
-   - Apply to Companies.
+  - Register.
+  - Edit profile.
+  - Applied companies. 
+  - Company status.
+  - Logout. 
+  - Apply to Companies.
 2. Company: 
   - Register. 
   - Edit profile. 

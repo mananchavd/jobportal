@@ -21,7 +21,6 @@ On the other hand the companies which are planning for new recruitment will spec
    - Applied companies. 
    - Company status.
    - Logout. 
-   - Jobs by Categories 
    - Apply to Companies.
 2. Company: 
   - Register. 
